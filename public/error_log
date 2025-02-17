@@ -1,0 +1,1204 @@
+[15-Aug-2024 11:18:58 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 206
+[15-Aug-2024 11:22:30 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 206
+[15-Aug-2024 11:22:51 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 206
+[07-Jan-2025 07:40:57 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 206
+[07-Jan-2025 07:41:12 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 206
+[07-Jan-2025 07:41:26 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 206
+[07-Jan-2025 08:10:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/pprfvlmy/public_html/clients/assessment/public/logout.php on line 1
+[07-Jan-2025 09:49:48 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 207
+[07-Jan-2025 09:51:27 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 207
+[07-Jan-2025 09:55:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pprfvlmy/public_html/clients/assessment/public/manage_questions.php:24) in /home/pprfvlmy/public_html/clients/assessment/public/manage_questions.php on line 32
+[07-Jan-2025 10:05:09 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 207
+[07-Jan-2025 10:05:25 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 207
+[07-Jan-2025 10:05:37 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 207
+[07-Jan-2025 11:32:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function questions() on array in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 135
+[07-Jan-2025 11:32:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function questions() on array in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 135
+[07-Jan-2025 11:35:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function questions() on array in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 135
+[07-Jan-2025 11:36:09 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 135
+[07-Jan-2025 11:36:11 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 135
+[07-Jan-2025 11:37:50 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 150
+[07-Jan-2025 11:37:52 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 150
+[07-Jan-2025 11:39:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateSupervisorRating() on null in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php:148
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php(37): EmployeeAnswer->updateSupervisorScore(0)
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 148
+[07-Jan-2025 11:40:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateSupervisorRating() on null in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php:148
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php(37): EmployeeAnswer->updateSupervisorScore(0)
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 148
+[07-Jan-2025 11:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateSupervisorRating() on null in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php:148
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php(37): EmployeeAnswer->updateSupervisorScore(0)
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 148
+[07-Jan-2025 11:40:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateSupervisorRating() on null in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php:148
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php(37): EmployeeAnswer->updateSupervisorScore(16)
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 148
+[07-Jan-2025 11:42:31 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 38
+[07-Jan-2025 11:42:36 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 38
+[07-Jan-2025 11:42:41 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 38
+[07-Jan-2025 11:43:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateSupervisorRating() on null in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php:148
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php(37): EmployeeAnswer->updateSupervisorScore(16)
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 148
+[10-Jan-2025 08:42:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 120
+[10-Jan-2025 08:44:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 120
+[10-Jan-2025 08:44:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 121
+[10-Jan-2025 09:28:19 UTC] PHP Warning:  Creating default object from empty value in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 630
+[10-Jan-2025 09:28:19 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 633
+[10-Jan-2025 09:28:43 UTC] PHP Warning:  Creating default object from empty value in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 630
+[10-Jan-2025 09:28:43 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 633
+[10-Jan-2025 09:29:09 UTC] PHP Warning:  Creating default object from empty value in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 630
+[10-Jan-2025 09:29:09 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 633
+[10-Jan-2025 09:29:57 UTC] PHP Notice:  Undefined variable: result in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 620
+[10-Jan-2025 09:29:57 UTC] PHP Notice:  Undefined variable: rating in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 630
+[10-Jan-2025 09:29:57 UTC] PHP Warning:  Creating default object from empty value in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 630
+[10-Jan-2025 09:29:57 UTC] PHP Notice:  Undefined variable: rating in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 632
+[10-Jan-2025 09:29:57 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 633
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  A non well formed numeric value encountered in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 633
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:32:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 619
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 619
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Array to string conversion in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 619
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:37 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:37 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 619
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 619
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Array to string conversion in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 619
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:55 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:33:55 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 619
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 619
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Array to string conversion in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 619
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 133
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:34:24 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:34:24 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 619
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 619
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Array to string conversion in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 619
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  Undefined index: id_question in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:35:54 UTC] PHP Notice:  String offset cast occurred in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:35:54 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:36:34 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:36:42 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:36:48 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:37:12 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:39:25 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:39:39 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:40:32 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:43:13 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:47:28 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:47:40 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 134
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 135
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 136
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 137
+[10-Jan-2025 09:49:26 UTC] PHP Warning:  Illegal string offset 'rating' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 138
+[10-Jan-2025 09:50:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 654
+[10-Jan-2025 09:50:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 655
+[10-Jan-2025 09:51:46 UTC] PHP Warning:  error_reporting() expects at most 1 parameter, 3 given in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 5
+[10-Jan-2025 09:51:46 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 655
+[10-Jan-2025 09:52:05 UTC] PHP Parse error:  syntax error, unexpected '~', expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 5
+[10-Jan-2025 09:52:31 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 655
+[10-Jan-2025 10:02:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function coutn() in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 27
+[10-Jan-2025 10:18:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pritn_r() in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php:620
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php(26): EmployeeAnswer->getHrReview('16')
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 620
+[10-Jan-2025 10:41:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 168
+[10-Jan-2025 10:41:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 172
+[10-Jan-2025 10:42:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 172
+[10-Jan-2025 10:43:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 172
+[10-Jan-2025 10:43:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 172
+[10-Jan-2025 10:43:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 172
+[10-Jan-2025 10:43:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 172
+[10-Jan-2025 10:43:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 172
+[10-Jan-2025 10:44:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 172
+[10-Jan-2025 10:45:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 27
+[10-Jan-2025 10:45:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 27
+[10-Jan-2025 10:46:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 173
+[10-Jan-2025 10:46:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 173
+[10-Jan-2025 10:50:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 173
+[10-Jan-2025 10:51:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 174
+[10-Jan-2025 10:52:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 174
+[10-Jan-2025 11:15:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[10-Jan-2025 11:18:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[10-Jan-2025 11:20:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[10-Jan-2025 11:21:37 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pprfvlmy/public_html/clients/assessment/public/questions.php on line 155
+[10-Jan-2025 11:21:59 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pprfvlmy/public_html/clients/assessment/public/questions.php on line 155
+[10-Jan-2025 11:23:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[10-Jan-2025 11:29:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 09:30:16 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 09:31:33 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 10:30:41 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 10:31:16 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 10:35:44 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 10:37:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 10:37:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 10:37:21 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 10:38:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 10:39:26 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 10:40:57 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 10:42:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 10:45:30 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 10:59:41 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:60
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 60
+[16-Jan-2025 10:59:53 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:60
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 60
+[16-Jan-2025 11:01:37 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:60
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 60
+[16-Jan-2025 11:01:38 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:60
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 60
+[16-Jan-2025 11:02:22 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:03:52 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:05:05 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:05:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 66
+[16-Jan-2025 11:05:21 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:60
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 60
+[16-Jan-2025 11:06:06 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:60
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 60
+[16-Jan-2025 11:06:14 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:07:13 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:09:02 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:09:23 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 62
+[16-Jan-2025 11:09:36 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 65
+[16-Jan-2025 11:10:01 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:10:12 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:10:13 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:10:42 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:11:00 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:11:01 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:11:11 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 66
+[16-Jan-2025 11:11:27 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:63
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:12:25 UTC] PHP Notice:  Undefined index: department in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 62
+[16-Jan-2025 11:12:25 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:66
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 66
+[16-Jan-2025 11:12:48 UTC] PHP Notice:  Undefined index: department in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 62
+[16-Jan-2025 11:12:48 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:66
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/questions.php(31): Question->readAll()
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 66
+[16-Jan-2025 11:13:08 UTC] PHP Notice:  Undefined index: department in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 62
+[16-Jan-2025 11:13:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 69
+[16-Jan-2025 11:13:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 69
+[16-Jan-2025 11:15:08 UTC] PHP Notice:  Undefined variable: connection in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:15:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:17:36 UTC] PHP Notice:  Undefined variable: connection in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:17:36 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:17:38 UTC] PHP Notice:  Undefined variable: connection in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:17:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 63
+[16-Jan-2025 11:17:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 11:18:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 11:18:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 11:18:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 11:18:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 11:18:47 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 11:19:15 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 11:20:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, object given in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 11:20:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, object given in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 64
+[16-Jan-2025 11:35:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadQuestion() in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 60
+[16-Jan-2025 11:36:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadQuestion() in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 60
+[16-Jan-2025 11:39:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadQuestion() in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 60
+[16-Jan-2025 11:39:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadQuestion() in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 60
+[16-Jan-2025 11:40:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadQuestion() in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 60
+[16-Jan-2025 11:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadQuestion() in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 60
+[16-Jan-2025 11:41:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Question::createQuestion(), 2 passed in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 39 and exactly 3 expected in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:183
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php(39): Question->createQuestion('How is the coff...', 'Marketing')
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 183
+[16-Jan-2025 11:42:59 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Question as array in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 80
+[16-Jan-2025 12:05:17 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 16
+[16-Jan-2025 12:05:43 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 16
+[16-Jan-2025 12:05:44 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 16
+[16-Jan-2025 12:05:47 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 16
+[16-Jan-2025 12:07:04 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 17
+[16-Jan-2025 12:07:30 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 17
+[16-Jan-2025 12:07:31 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 17
+[16-Jan-2025 12:08:00 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 20
+[16-Jan-2025 12:08:01 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 20
+[16-Jan-2025 12:08:19 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 20
+[16-Jan-2025 12:08:54 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 20
+[16-Jan-2025 12:09:06 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 20
+[16-Jan-2025 12:09:08 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 20
+[17-Jan-2025 10:19:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method EmployeeAnswer::getAssessment() in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 21
+[17-Jan-2025 10:24:12 UTC] PHP Parse error:  syntax error, unexpected ''-'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 64
+[17-Jan-2025 10:26:28 UTC] PHP Parse error:  syntax error, unexpected ''-'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 68
+[17-Jan-2025 10:26:30 UTC] PHP Parse error:  syntax error, unexpected ''-'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 68
+[17-Jan-2025 10:26:48 UTC] PHP Parse error:  syntax error, unexpected ''-'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 68
+[17-Jan-2025 10:40:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function EmployeeAnswer::updateSupervisorScore(), 1 passed in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 41 and exactly 3 expected in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php:122
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php(41): EmployeeAnswer->updateSupervisorScore(16)
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 122
+[17-Jan-2025 10:43:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function EmployeeAnswer::updateSupervisorScore(), 1 passed in /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php on line 41 and exactly 3 expected in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php:122
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php(41): EmployeeAnswer->updateSupervisorScore(16)
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 122
+[17-Jan-2025 10:43:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method EmployeeAnswer::updateSupervisorRating() in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php:128
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/supervisor_review.php(41): EmployeeAnswer->updateSupervisorScore(16)
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 128
+[17-Jan-2025 10:49:04 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 131
+[17-Jan-2025 10:49:07 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 131
+[17-Jan-2025 10:52:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function EmployeeAnswer::getEmployeesByPeriod(), 1 passed in /home/pprfvlmy/public_html/clients/assessment/public/hr_dashboard.php on line 26 and exactly 2 expected in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php:203
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/hr_dashboard.php(26): EmployeeAnswer->getEmployeesByPeriod('2025-01-01')
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 203
+[17-Jan-2025 10:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method EmployeeAnswer::getAssessment() in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 24
+[17-Jan-2025 10:55:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method EmployeeAnswer::getAssessment() in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 24
+[17-Jan-2025 10:56:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method EmployeeAnswer::getHrQuestions() in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 25
+[17-Jan-2025 10:57:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method EmployeeAnswer::getHrReview() in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/hr_review.php on line 26
+[19-Jan-2025 06:49:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getHrReview() on null in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 20
+[19-Jan-2025 08:16:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php:733
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php(25): EmployeeAnswer->getFillAssessment(17)
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 733
+[19-Jan-2025 09:57:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/pprfvlmy/public_html/clients/assessment/public/employee_assessment.php on line 89
+[19-Jan-2025 09:57:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/pprfvlmy/public_html/clients/assessment/public/employee_assessment.php on line 93
+[19-Jan-2025 09:58:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/pprfvlmy/public_html/clients/assessment/public/employee_assessment.php on line 44
+[19-Jan-2025 12:25:58 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/pprfvlmy/public_html/clients/assessment/public/register.php on line 78
+[19-Jan-2025 12:26:00 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/pprfvlmy/public_html/clients/assessment/public/register.php on line 78
+[19-Jan-2025 12:26:02 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/pprfvlmy/public_html/clients/assessment/public/register.php on line 78
+[19-Jan-2025 12:26:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/register.php on line 78
+[20-Jan-2025 07:16:49 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/pprfvlmy/public_html/clients/assessment/public/index.php on line 23
+[20-Jan-2025 07:18:52 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/pprfvlmy/public_html/clients/assessment/public/index.php on line 23
+[20-Jan-2025 07:18:54 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/pprfvlmy/public_html/clients/assessment/public/index.php on line 23
+[20-Jan-2025 07:30:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pprfvlmy/public_html/clients/assessment/public/employee_assessment.php on line 13
+[20-Jan-2025 07:41:03 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/pprfvlmy/public_html/clients/assessment/public/users.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 19
+[20-Jan-2025 07:41:05 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/pprfvlmy/public_html/clients/assessment/public/users.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 19
+[20-Jan-2025 07:41:06 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/pprfvlmy/public_html/clients/assessment/public/users.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 19
+[20-Jan-2025 07:41:19 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/pprfvlmy/public_html/clients/assessment/public/users.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/users.php on line 19
+[20-Jan-2025 07:42:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/pprfvlmy/public_html/clients/assessment/models/Question.php:210
+Stack trace:
+#0 /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php(39): Question->updateQuestion('23', 'Identifying hir...', 'Sales', 1)
+#1 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 210
+[20-Jan-2025 07:59:03 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pprfvlmy/public_html/clients/assessment/models/EmployeeAnswer.php on line 127
+[20-Jan-2025 08:34:24 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 216
+[20-Jan-2025 08:34:26 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 216
+[20-Jan-2025 08:35:21 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 216
+[20-Jan-2025 08:36:56 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 216
+[20-Jan-2025 08:37:07 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 216
+[20-Jan-2025 08:37:15 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/pprfvlmy/public_html/clients/assessment/public/dashboard.php on line 216
+[20-Jan-2025 10:43:54 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/pprfvlmy/public_html/clients/assessment/public/admin_dashboard.php on line 137
+[20-Jan-2025 10:43:56 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/pprfvlmy/public_html/clients/assessment/public/admin_dashboard.php on line 137
+[20-Jan-2025 10:44:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pprfvlmy/public_html/clients/assessment/public/admin_dashboard.php on line 136
+[20-Jan-2025 10:44:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pprfvlmy/public_html/clients/assessment/public/admin_dashboard.php on line 136
+[20-Jan-2025 11:31:18 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/pprfvlmy/public_html/clients/assessment/models/User.php on line 92
+[20-Jan-2025 11:31:42 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/pprfvlmy/public_html/clients/assessment/models/User.php on line 92
+[20-Jan-2025 11:32:27 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/pprfvlmy/public_html/clients/assessment/models/User.php on line 92
+[20-Jan-2025 11:36:42 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/pprfvlmy/public_html/clients/assessment/models/User.php on line 97
+[20-Jan-2025 11:36:51 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/pprfvlmy/public_html/clients/assessment/models/User.php on line 97
+[20-Jan-2025 11:36:57 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/pprfvlmy/public_html/clients/assessment/models/User.php on line 97
+[20-Jan-2025 11:38:12 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/pprfvlmy/public_html/clients/assessment/models/User.php on line 98
+[20-Jan-2025 11:38:16 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/pprfvlmy/public_html/clients/assessment/models/User.php on line 98
+[21-Jan-2025 08:09:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/register.php on line 125
+[21-Jan-2025 08:27:18 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 46
+[21-Jan-2025 08:27:29 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 46
+[21-Jan-2025 08:27:44 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 46
+[21-Jan-2025 08:28:08 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 46
+[21-Jan-2025 08:28:24 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 46
+[21-Jan-2025 08:28:53 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 50
+[21-Jan-2025 08:29:07 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 50
+[21-Jan-2025 08:29:25 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 50
+[21-Jan-2025 08:29:26 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 50
+[21-Jan-2025 08:30:16 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 45
+[21-Jan-2025 08:30:29 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 42
+[21-Jan-2025 08:31:21 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 46
+[21-Jan-2025 08:31:36 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 49
+[21-Jan-2025 08:31:37 UTC] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE), expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 49
+[21-Jan-2025 08:32:44 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type User as array in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 75
+[21-Jan-2025 08:33:20 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type User as array in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 75
+[21-Jan-2025 08:33:21 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type User as array in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 75
+[21-Jan-2025 08:36:13 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type User as array in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/pprfvlmy/public_html/clients/assessment/public/add_questions.php on line 75
+[21-Jan-2025 10:47:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 49
+[22-Jan-2025 10:40:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[22-Jan-2025 10:41:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[22-Jan-2025 11:17:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[22-Jan-2025 11:39:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[22-Jan-2025 11:47:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[22-Jan-2025 16:23:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:06:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:18:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:20:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:20:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:20:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:23:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:28:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:30:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:32:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:32:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:32:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:58:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:58:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 06:58:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 08:27:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 08:28:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 08:28:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 08:29:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:00:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:00:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:01:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:01:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:01:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:02:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:03:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:04:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:04:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:05:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:05:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:05:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:53:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:54:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:55:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:57:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 09:59:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 10:24:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 10:27:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 11:04:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 11:13:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 11:39:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 11:49:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 11:49:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 12:09:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 12:16:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 12:33:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 12:34:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[23-Jan-2025 12:34:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 04:42:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:09:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:12:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:12:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:13:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:22:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:24:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:25:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:30:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:31:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:34:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:34:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:36:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:37:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:39:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:39:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:43:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 05:45:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 06:15:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 06:15:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 06:19:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 06:22:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 06:23:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 06:23:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 06:24:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 49
+[24-Jan-2025 06:24:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 06:24:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 06:25:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 06:27:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/pprfvlmy/public_html/clients/assessment/models/Question.php on line 173
+[24-Jan-2025 06:35:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 06:35:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 06:39:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:01:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:07:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:16:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:16:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:18:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:22:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:29:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:37:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:39:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:39:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:42:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:43:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:45:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 07:46:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 09:16:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 11:21:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 11:22:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[24-Jan-2025 12:00:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 04:31:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 04:34:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 04:38:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 05:11:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 05:24:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 05:24:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 06:01:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 06:15:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 06:16:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 06:17:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 06:17:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 07:02:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 07:02:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 07:03:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 07:03:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 07:05:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 08:20:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 09:41:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 09:44:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 10:25:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[26-Jan-2025 11:07:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[27-Jan-2025 04:17:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[27-Jan-2025 10:23:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[27-Jan-2025 11:04:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[27-Jan-2025 11:34:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[27-Jan-2025 11:39:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[27-Jan-2025 12:03:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[27-Jan-2025 12:30:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[27-Jan-2025 12:39:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[27-Jan-2025 13:47:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[27-Jan-2025 13:48:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[27-Jan-2025 13:50:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 04:21:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 04:24:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 04:26:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 04:26:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 05:22:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 05:22:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 05:24:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 09:25:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 09:55:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 09:57:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 10:54:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 11:21:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 11:51:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 11:58:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 12:11:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 12:12:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 12:13:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 12:13:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 12:17:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[28-Jan-2025 12:17:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[29-Jan-2025 04:42:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[29-Jan-2025 04:47:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[29-Jan-2025 06:20:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[30-Jan-2025 09:36:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[30-Jan-2025 10:29:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[30-Jan-2025 10:45:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[30-Jan-2025 11:01:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[30-Jan-2025 11:03:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[30-Jan-2025 11:04:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[30-Jan-2025 11:04:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[31-Jan-2025 05:06:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[31-Jan-2025 06:37:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[31-Jan-2025 06:46:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[02-Feb-2025 06:09:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[02-Feb-2025 06:34:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[03-Feb-2025 09:47:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 71
+[10-Feb-2025 07:23:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 77
+[10-Feb-2025 11:08:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 77
+[10-Feb-2025 11:19:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pprfvlmy/public_html/clients/assessment/public/assessment_details.php on line 77
